@@ -6,6 +6,9 @@ The **ESP32-S3 Based Home Automation** system is designed to provide an intellig
 
 This project integrates various technologies and is designed for both local and remote management, providing flexibility for home automation. It features temperature and humidity-based automation, relay control with individual status LEDs, real-time communication, and compatibility with external hardware.
 
+![Front View](https://github.com/karthirilla/ESP32_Home_Automation_4CH/blob/main/ESP32_HOME_AUTOMATION_4CH_FRONT.png)
+![Back View](https://github.com/karthirilla/ESP32_Home_Automation_4CH/blob/main/ESP32_HOME_AUTOMATION_4CH_BACK.png)
+
 ### Key Features
 
 - **Relay Control**: 4-channel isolated relay outputs to control AC appliances and other home devices.
