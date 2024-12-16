@@ -27,7 +27,7 @@ This project integrates various technologies and is designed for both local and 
 
 1. **ESP32-S3 Microcontroller**: The heart of the system, enabling Wi-Fi, BLE, and MQTT communication.
 2. **4-Channel Isolated Relay Outputs**: Control various appliances, including AC units and lighting.
-3. **DHT22 (Temperature & Humidity Sensor)**: Monitors room temperature and humidity for automation.
+3. **AHT20 (Temperature & Humidity Sensor)**: Monitors room temperature and humidity for automation.
 4. **Status LEDs**:
    - **Individual Relay LEDs**: Show the status of each controlled relay.
    - **WS2812 RGB LED**: Displays Wi-Fi, MQTT, and system status.
