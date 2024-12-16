@@ -8,6 +8,7 @@ This project integrates various technologies and is designed for both local and 
 
 ![Front View](https://github.com/karthirilla/ESP32_Home_Automation_4CH/blob/main/ESP32_HOME_AUTOMATION_4CH_FRONT.png)
 ![Back View](https://github.com/karthirilla/ESP32_Home_Automation_4CH/blob/main/ESP32_HOME_AUTOMATION_4CH_BACK.png)
+![Front View](https://github.com/karthirilla/ESP32_Home_Automation_4CH/blob/main/ESP32_HOME_AUTOMATION_4CH_FRONT_1.jpg)
 
 ### Key Features
 
